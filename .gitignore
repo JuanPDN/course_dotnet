@@ -1,0 +1,51 @@
+#System
+.DS_STORE
+
+# Bin and Obj folders (build outputs)
+[Bb]in/
+[Oo]bj/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Rider
+.idea/
+
+# Visual Studio files
+.vs/
+.vscode/
+.vscode-test/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Logs
+*.log
+*.tlog
+
+# Auto-generated files
+*.cache
+*.ilk
+*.pdb
+*.dll
+*.exe
+*.swp
+*.class
+*.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Configuration files
+appsettings.Development.json
+appsettings.Staging.json
+appsettings.Production.json
+appsettings.Local.json
